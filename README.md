@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Tomas
+
+- 🔭 I’m currently working on custom WordPress, Gutenberg, React and AccessibilityooCommerce integrations
+- 🌱 Learning AWS & GitHub project automation
+- 🏔️ I love hiking, snowboarding, and road-tripping around BC
+
+## 📊 Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasllobet&layout=compact)
