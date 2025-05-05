@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🌱 Learning AWS & GitHub project automation
 - 🏔️ I love hiking, snowboarding, and road-tripping around BC
 
-## 📊 Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasllobet&layout=compact)
+## 📊 My Most Used Languages
+![Top Langs](https://github-readme-stats-tomllobet.vercel.app/api/top-langs/?username=tomllobet&count_private=true&layout=compact)
