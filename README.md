@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Tomas
 
-- 🔭 I’m currently working on custom WordPress, Gutenberg, React, React Native, Node.js, Accessibility, WooCommerce integrations
-- 🌱 Learning AWS & GitHub project automation
+- 🔭 I’m currently working on custom WordPress, Gutenberg, React, React Native, Node.js, Accessibility
 - 🏔️ I love hiking, snowboarding, and road-tripping around BC
 
 <!--
